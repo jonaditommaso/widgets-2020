@@ -1,0 +1,26 @@
+.button {
+    background: #59bdfe;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 10px;
+    border: none;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: #4db8ff;
+}
+
+.text {
+    color: white;
+}
+
+.results {
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+
+.search__input {
+    border: solid 1.5px #4db8ff !important;
+    width: 80% !important;
+}

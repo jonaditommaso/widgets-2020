@@ -1,0 +1,15 @@
+.accordion:focus {
+    font-size: 20px;
+}
+
+.search:focus {
+    font-size: 20px;
+}
+
+.translate:focus {
+    font-size: 20px;
+}
+
+.color:focus {
+    font-size: 20px;
+}
